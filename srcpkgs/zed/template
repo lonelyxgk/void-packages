@@ -1,6 +1,6 @@
 # Template file for 'zed'
 pkgname=zed
-version=1.22.0
+version=1.19.2
 revision=1
 archs="x86_64* aarch64*"
 build_style=cargo
